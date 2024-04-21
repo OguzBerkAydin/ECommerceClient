@@ -1,11 +1,4 @@
 import {
-  animate,
-  state,
-  style,
-  transition,
-  trigger
-} from "./chunk-FOMS6LRD.js";
-import {
   ArrayDataSource,
   BidiModule,
   Directionality,
@@ -25,7 +18,14 @@ import {
   hasModifierKey,
   isDataSource,
   supportsScrollBehavior
-} from "./chunk-XLDAC2V5.js";
+} from "./chunk-AV3FZDBE.js";
+import {
+  animate,
+  state,
+  style,
+  transition,
+  trigger
+} from "./chunk-FOMS6LRD.js";
 import {
   DOCUMENT
 } from "./chunk-NODNCCZN.js";
